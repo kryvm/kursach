@@ -1,0 +1,27 @@
+.inputs {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+  margin-top: 30px;
+}
+
+.inputs label {
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+.inputs input {
+  width: 100px;
+  height: 50px;
+  padding: 0 0 0 10px;
+  font-size: 1.2em;
+  font-weight: 500;
+  font-family: inherit;
+  border: none;
+  border-bottom: 1px solid #646cff;
+  background-color: transparent;
+  outline: none;
+}

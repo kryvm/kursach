@@ -1,0 +1,22 @@
+.symbol-row {
+  width: 1024px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.symbol-row input {
+  height: 40px;
+}
+
+.probs {
+  display: flex;
+  gap: 10px;
+}
+
+.probs input {
+  width: 50px;
+  text-align: center;
+
+
+}
